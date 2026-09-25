@@ -1,3 +1,5 @@
+> ⏳ **Legacy project (2020)** — archived and no longer maintained. Kept as part of my development journey. Current work: [elvinlab.dev](https://elvinlab.dev)
+
 # SpaAppDating
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
